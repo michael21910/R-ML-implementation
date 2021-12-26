@@ -1,0 +1,13 @@
+ID,Gender,Age,BloodPressure,Medicine
+1,Female,21,Normal,A
+2,Male,74,Normal,B
+3,Female,36,Low,A
+4,Female,32,High,B
+5,Male,45,Low,A
+6,Female,28,Normal,A
+7,Male,50,Normal,B
+8,Female,41,Low,B
+9,Female,60,Normal,B
+10,Male,30,Normal,A
+11,Male,26,Low,B
+12,Female,55,High,A
